@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+matplotlib
+seaborn
+python-multipart
+google-genai
+reportlab
+n8n
