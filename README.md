@@ -7,6 +7,7 @@
 [![Seaborn](https://img.shields.io/badge/seaborn-0.12-purple?logo=seaborn)](https://seaborn.pydata.org/) 
 [![n8n](https://img.shields.io/badge/n8n-Automation-orange?logo=n8n)](https://n8n.io/)
 [![Gemini AI](https://img.shields.io/badge/Gemini%20AI-AI%20Assistant-blueviolet)](https://developers.generativeai.google/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/manasshukla)
 
 ---
 
@@ -215,6 +216,7 @@ uvicorn eda_api:app
 [![Portfolio](https://img.shields.io/website?url=https%3A%2F%2Fmanas-shukla-portfolio.framer.website%2F)](https://manas-shukla-portfolio.framer.website/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manas_shukla_101) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-shukla-006774370) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shuklamanas8928@gmail.com) 
 
 ---
+
 
 
 
