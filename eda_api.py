@@ -9,7 +9,7 @@ from fpdf import FPDF
 app = FastAPI()
 
 # Gemini Client
-client = genai.Client(api_key="AIzaSyDvcRSLZMMtzztllIBP0EQin0UAeZB0oQA")
+client = genai.Client(api_key="") # Paste your gemini api key inside the double quote
 
 
 # -----------------------------
@@ -127,4 +127,5 @@ async def run_eda(file: UploadFile = File(...)):
         "summary": summary,
         "insights": insights,
         "report_file": report
+
     }
