@@ -203,8 +203,6 @@ uvicorn eda_api:app
 - Enhance PDF reporting with custom templates & branding
 - Natural language dataset queries
 - Power BI dashboard integration
-- Automated data cleaning agent
-- Multi-dataset comparison
 
 ---
 ---
@@ -216,4 +214,5 @@ uvicorn eda_api:app
 [![Portfolio](https://img.shields.io/website?url=https%3A%2F%2Fmanas-shukla-portfolio.framer.website%2F)](https://manas-shukla-portfolio.framer.website/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manas_shukla_101) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-shukla-006774370) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shuklamanas8928@gmail.com) 
 
 ---
+
 
